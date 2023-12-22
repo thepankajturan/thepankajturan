@@ -1,6 +1,6 @@
 # 🌌 Greetings, Earthlings! I'm Pankaj 👾 ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-## 🌟 React Developer | 🐧 PenguinCommander | 🎨 Anime Tech-Magician
+## 🌟 React Developer | 🐧 PenguinCommander | 🎨 Digital Shonen Sorcerer
 
 In the digital cosmos where code and creativity collide, I stand as a beacon of innovation and imagination. My keyboard is my katana, slicing through bugs and crafting worlds within the silicon landscape.
 
