@@ -5,7 +5,7 @@
 In the digital cosmos where code and creativity collide, I stand as a beacon of innovation and imagination. My keyboard is my katana, slicing through bugs and crafting worlds within the silicon landscape.
 
 - 🏙️ **Residing in**: Toronto, CA
-- 🌐 **Digital Domain**: [A Portal to My Creations](http://github.com/thepankajturan)
+- 🌐 **Digital Domain**: [A Portal to My Creations](https://github.com/thepankajturan?tab=repositories)
 - 💌 **Summon Me**: [thepankajturan@gmail.com](mailto:thepankajturan@gmail.com)
 - 🚀 **Current Saga**: Weaving magic in [Live Chat App in React](http://github.com/thepankajturan)
 - 🌱 **Sharpening Skills**: Emacs, TypeScript, Docker, AWS
